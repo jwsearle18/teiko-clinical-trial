@@ -2,7 +2,7 @@
 
 Interactive dashboard for analyzing immune cell population data from clinical trial patients.
 
-**[Live Dashboard](https://teiko.streamlit.app)**
+**[Live Dashboard](https://teiko-technical-jaden-searle.streamlit.app)**
 
 ## Setup & Running
 
